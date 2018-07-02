@@ -13,8 +13,8 @@ public class PlaygroundTest {
 
     @Before
     public void setUp(){
-        playground = new Playground("Play");
-        visitor= new Visitor("Bob", 150, 300, 18);
+        playground = new Playground("Play", 300);
+        visitor= new Visitor("Bob", 150, 300, 16);
     }
 
     @Test

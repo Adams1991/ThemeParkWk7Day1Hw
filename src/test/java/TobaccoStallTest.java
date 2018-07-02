@@ -12,8 +12,8 @@ public class TobaccoStallTest {
 
     @Before
     public void setUp(){
-        tobaccoStall = new TobaccoStall("Billy's Candy", "Billy", 300);
-        visitor = new Visitor("Jim", 200, 300, 16);
+        tobaccoStall = new TobaccoStall("Billy's Candy", "Billy", 300, 300);
+        visitor = new Visitor("Jim", 200, 300, 17);
     }
 
     @Test

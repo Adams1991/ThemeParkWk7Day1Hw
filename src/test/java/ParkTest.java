@@ -10,7 +10,7 @@ public class ParkTest {
 
     @Before
     public void setUp(){
-       park = new Park("Public");
+       park = new Park("Public", 300);
     }
 
     @Test

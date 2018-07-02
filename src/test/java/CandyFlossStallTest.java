@@ -10,7 +10,7 @@ public class CandyFlossStallTest {
 
     @Before
     public void setUp(){
-        candyFlossStall = new CandyFlossStall("Billy's Candy", "Billy", 300);
+        candyFlossStall = new CandyFlossStall("Billy's Candy", "Billy", 300, 300);
     }
 
     @Test
