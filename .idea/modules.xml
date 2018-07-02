@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThemeParkWk7Day1Hw.iml" filepath="$PROJECT_DIR$/.idea/modules/ThemeParkWk7Day1Hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThemeParkWk7Day1Hw_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ThemeParkWk7Day1Hw_main.iml" group="ThemeParkWk7Day1Hw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThemeParkWk7Day1Hw_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ThemeParkWk7Day1Hw_test.iml" group="ThemeParkWk7Day1Hw" />
     </modules>
   </component>
 </project>
