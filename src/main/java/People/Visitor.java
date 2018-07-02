@@ -4,11 +4,13 @@ public class Visitor {
     private String name;
     private int height;
     private double money;
+    private int age;
 
-    public Visitor(String name, int height, int money){
+    public Visitor(String name, int height, int money, int age){
         this.name = name;
         this.height = height;
         this.money =  money;
+        this.age =  age;
     }
 
     public String getName() {
@@ -21,5 +23,9 @@ public class Visitor {
 
     public double getMoney() {
         return money;
+    }
+
+    public int getAge() {
+        return age;
     }
 }

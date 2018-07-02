@@ -14,13 +14,9 @@ public class StallTest {
     public void setUp(){
         stall = new Stall("Bla", "BlaBla", 300) {
         };
-        visitor = new Visitor("Bob", 160, 400);
+        visitor = new Visitor("Bob", 160, 400, 17);
     }
 
-    @Test
-    public void canVisit() {
-        assertEquals("Bob visited stall Bla", stall.visit(visitor));
-    }
 
 
 }
