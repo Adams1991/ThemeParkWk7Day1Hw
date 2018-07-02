@@ -1,6 +1,6 @@
 package ThemePark;
 
-public abstract class Stall {
+public abstract class Stall extends ThemePark {
     public String name;
     public String ownerName;
     public int parkingSpot;

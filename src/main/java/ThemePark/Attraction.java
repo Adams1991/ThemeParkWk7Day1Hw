@@ -1,6 +1,6 @@
 package ThemePark;
 
-public abstract class Attraction {
+public abstract class Attraction extends ThemePark {
         public String name;
 
         public Attraction(String name) {
